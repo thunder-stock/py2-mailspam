@@ -1,1 +1,2 @@
-# py2-mailspam
+# Email-Spammer
+Best E-Mail Spammer with python.
