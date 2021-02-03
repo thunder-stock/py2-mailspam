@@ -1,7 +1,4 @@
 clear
-figlet Xeansh
-sleep 1
-clear
 apt-get update -y          # Update
 apt-get autoremove         # Auto Remove
 
